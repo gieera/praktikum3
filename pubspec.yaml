@@ -1,0 +1,40 @@
+name: latihan1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Engie.jpg
+    - assets/Ridha.jpg
+    - assets/Reni.jpg
+    - assets/goride.jpg
+    - assets/gocar.jpg
+    - assets/gofood.jpg
+    - assets/gosend.jpg
+    - assets/gomart.jpg
+    - assets/gopulsa.jpg
+    - assets/checkin.jpg
+    - assets/header.jpg
+    - assets/profile.jpg
+    - assets/vaccine.jpg
+    - assets/results.jpg
+    - assets/ehac.jpg
+    - assets/travel.jpg
+    - assets/telemedicine.jpg
+    - assets/healthcare.jpg
+    - assets/tangan.jpg
+    - assets/scan.jpg
